@@ -7,7 +7,15 @@ An interactive Streamlit dashboard that lets you pick **any location on a map**,
 <!-- Add a screenshot or GIF here:
 ![Dashboard preview](docs/screenshot.png)
 -->
-
+<img width="959" height="537" alt="image" src="https://github.com/user-attachments/assets/9a9244c7-4e21-4b5b-8393-a73d1372680e" />
+---
+<img width="959" height="532" alt="image" src="https://github.com/user-attachments/assets/c39b04bf-9be1-459d-ad49-aba9c793cf7c" />
+---
+<img width="959" height="528" alt="image" src="https://github.com/user-attachments/assets/a10131da-fae3-4319-9b75-219753d0cd1e" />
+---
+<img width="959" height="532" alt="image" src="https://github.com/user-attachments/assets/6c18c45c-214e-4920-8749-3df8d13b3261" />
+---
+<img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/73176b70-dd73-4000-9458-032241c6b891" />
 ---
 
 ## ✨ Features
@@ -132,10 +140,6 @@ The app opens at `http://localhost:8501`.
 - Region/polygon selection and multi-location comparison
 - Export reports (CSV / PDF)
 - Scheduled model retraining and persisted models
-
-## 📄 License
-
-Add a license of your choice (e.g., [MIT](https://choosealicense.com/licenses/mit/)).
 
 ## 🙌 Acknowledgements
 
