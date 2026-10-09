@@ -1,0 +1,10 @@
+air_quality/.streamlit[theme]
+base = "dark"
+primaryColor = "#4f8df5"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#171b26"
+textColor = "#e8eaf0"
+font = "sans serif"
+
+[server]
+runOnSave = true
